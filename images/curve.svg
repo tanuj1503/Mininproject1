@@ -1,0 +1,13 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1280" height="720" fill="#E5E5E5"/>
+<g id="iMac - 1" clip-path="url(#clip0)">
+<rect width="1280" height="720" fill="white"/>
+<path id="two" d="M1285 369.628C933.599 268.197 592.916 565.76 455 720.221L1285 706.221V369.628Z" fill="#4EBDBD" fill-opacity="0.89" stroke="#4EBDBD" stroke-opacity="0.89"/>
+<path id="one" d="M1279.5 385.274C941.9 284.474 592.5 566.274 460 719.774H1279.5V385.274Z" fill="#D2F9DD" stroke="#C7E7E7"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="1280" height="720" fill="white"/>
+</clipPath>
+</defs>
+</svg>
